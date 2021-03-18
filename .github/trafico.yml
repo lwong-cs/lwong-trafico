@@ -39,7 +39,7 @@ labels:
 #   color: Color of label
 
 # Example
-reviewers:
-  skamjula-ccs:
-    name: "Sowjanya"
-    color: "#000000"
+  reviewers:
+    skamjula-ccs:
+      name: "Sowjanya"
+      color: "#000000"
